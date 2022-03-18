@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lowOccupancyLevelCheckBox</name>
+   <tag></tag>
+   <elementGuidId>5360b4fc-a731-4fd5-a6dc-251a7f91a891</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='non-standard-info-options']/li/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;non-standard-info-options&quot;)/li[@class=&quot;ads-DefaultListItem__list-item--1WBpN ads-CheckBoxListItem__checkbox-direction--1U0HV form_additional-info-list__TpZ3G form_form-list__11UeS form_medium-list-item__2abKM&quot;]/div[@class=&quot;ads-DefaultListItem__list-item-selected-marker--1KxZC&quot;]/div[@class=&quot;ads-CheckBoxListItem__checkbox-container--3IjQD&quot;]/span[@class=&quot;ads-CheckBoxListItem__checkbox-check--3qEx9&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(1) span[class*=&quot;ads-CheckBoxListItem__checkbox-check&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ads-CheckBoxListItem__checkbox-check--3qEx9</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;non-standard-info-options&quot;)/li[@class=&quot;ads-DefaultListItem__list-item--1WBpN ads-CheckBoxListItem__checkbox-direction--1U0HV form_additional-info-list__TpZ3G form_form-list__11UeS form_medium-list-item__2abKM&quot;]/div[@class=&quot;ads-DefaultListItem__list-item-selected-marker--1KxZC&quot;]/div[@class=&quot;ads-CheckBoxListItem__checkbox-container--3IjQD&quot;]/span[@class=&quot;ads-CheckBoxListItem__checkbox-check--3qEx9&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='non-standard-info-options']/li/div[2]/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

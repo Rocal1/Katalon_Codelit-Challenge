@@ -1,0 +1,38 @@
+DOCUMENTATION:
+
+This project was set up to use the default profile and was tested to execute through chrome browser and headless-chrome browser.
+
+Instructions:
+Pull all changes from the repo and you will be ready to go
+
+Run single Test:
+- Just need to open the selected test case you want to run and then click on the Play button
+
+Run Test Suite:
+- Open "Form Flow" test suite and then click on Play button
+
+Run Collection: 
+- This collection was configured to run all TC over chrome and headless-chrome. To execute just open the "Collection Form Flow" and click on Play button
+
+
+
+BONUS POINTS:
+
+Question 1: If you provide thoughts on what you could improve on your testing suites if given more time;
+
+Answer 1: Things could be improved:
+- Check other browsers
+- Add more elements to add more validations
+- Handle different scenarios configurable through the global variables in the profile
+- Slack and Email integration to send reports after every test suite run
+
+
+Question 2: If you provide thoughts on other scenarios for testing the form flows should cover;
+
+Answer 2: 
+- All different combinations the user can choose while is filling the form could be taken as variables in the profile. 
+(eg. User choose other project than "Multifamily" by just changing the option from a value variable in the default profile)
+- Check error messages of the input fields 
+- Check max and min inputs price amounts
+- Check max and min characters on input fields
+- Check backwards navigations
